@@ -1,6 +1,7 @@
 import sys
 
 try:
+    #User inputs from form.php
     input_numbers = sys.argv[1]
     threshold = int(sys.argv[2])
     
